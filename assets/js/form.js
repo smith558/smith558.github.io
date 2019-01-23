@@ -29,10 +29,8 @@ function js_send() {
     };
 
     var subject = document.querySelector("#" + form_id_js + " [name='subject']").value;
-    var address = document.querySelector("#" + form_id_js + " [name='reply_to']").value;
     var message = document.querySelector("#" + form_id_js + " [name='text']").value;
     data_js['subject'] = subject;
-    data_js['reply_to'] = address;
     data_js['text'] = message;
     var params = toParams(data_js);
 
