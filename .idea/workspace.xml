@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f218c1be-5338-498a-9825-0da106cd5e81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,9 +56,12 @@
     <session id="1472013173">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -89,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1635">
-              <caret line="468" column="69" lean-forward="true" selection-start-line="468" selection-start-column="69" selection-end-line="468" selection-end-column="69" />
+            <state relative-caret-position="890">
+              <caret line="460" column="30" selection-start-line="460" selection-start-column="30" selection-end-line="460" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -155,14 +157,15 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="855" />
-    <option name="height" value="480" />
+    <option name="width" value="570" />
+    <option name="height" value="321" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,7 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +203,17 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -218,19 +231,22 @@
       <workItem from="1548074104583" duration="674000" />
       <workItem from="1548074949096" duration="727000" />
       <workItem from="1548077560300" duration="3444000" />
+      <workItem from="1548081289660" duration="373000" />
+      <workItem from="1548244959234" duration="17000" />
+      <workItem from="1548245047499" duration="320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15358000" />
+    <option name="totallyTimeSpent" value="16068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1391097" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info id="npm" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49829933" visible="true" weight="0.14626391" />
+      <window_info id="Structure" order="1" sideWeight="0.5017007" side_tool="true" weight="0.14626391" />
+      <window_info id="Gulp" order="2" sideWeight="0.5017007" side_tool="true" weight="0.14626391" />
+      <window_info id="npm" order="3" sideWeight="0.5017007" side_tool="true" weight="0.14626391" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
@@ -283,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="468" column="69" lean-forward="true" selection-start-line="468" selection-start-column="69" selection-end-line="468" selection-end-column="69" />
+        <state relative-caret-position="890">
+          <caret line="460" column="30" selection-start-line="460" selection-start-column="30" selection-end-line="460" selection-end-column="30" />
         </state>
       </provider>
     </entry>
