@@ -1,3 +1,16 @@
+$('#getInTouch').click(function () {
+    $('#javascript_form').goTo();
+});
+
+(function ($) {
+    $.fn.goTo = function () {
+        $('html, body').animate({
+            scrollTop: $(this).offset().top + '30px'
+        }, 'slow');
+        return this; // for chaining...
+    }
+})(jQuery);
+
 var form_id_js = "javascript_form";
 
 var data_js = {
