@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f218c1be-5338-498a-9825-0da106cd5e81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -92,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="567" column="38" lean-forward="true" selection-start-line="567" selection-start-column="38" selection-end-line="567" selection-end-column="38" />
+            <state relative-caret-position="392">
+              <caret line="561" column="38" lean-forward="true" selection-start-line="561" selection-start-column="38" selection-end-line="561" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -238,12 +237,12 @@
       <workItem from="1548081289660" duration="373000" />
       <workItem from="1548244959234" duration="17000" />
       <workItem from="1548245047499" duration="320000" />
-      <workItem from="1548253157781" duration="1736000" />
+      <workItem from="1548253157781" duration="2085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17804000" />
+    <option name="totallyTimeSpent" value="18153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="720" extended-state="6" />
@@ -305,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="567" column="38" lean-forward="true" selection-start-line="567" selection-start-column="38" selection-end-line="567" selection-end-column="38" />
+        <state relative-caret-position="392">
+          <caret line="561" column="38" lean-forward="true" selection-start-line="561" selection-start-column="38" selection-end-line="561" selection-end-column="38" />
         </state>
       </provider>
     </entry>
