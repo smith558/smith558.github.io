@@ -1,10 +1,10 @@
 # Changelog
 
-## [1.0.0] 2018-07-25
+## [v1.0-alpha] 2019-01-21
 
 ### Original Release
 
-## [1.0.1] 2018-08-21
+## [v1.0-alpha] 2019-01-21
 
 - FIX: syntax error in _icons.scss
 - FIX: double body/html tags in css
