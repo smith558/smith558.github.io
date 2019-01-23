@@ -532,8 +532,7 @@
                         <div class="card-body p-lg-5">
                             <h4 class="mb-1">Want to work with us?</h4>
                             <p class="mt-0">Your project is very important to us.</p>
-                            <form action="http://postmail.invotes.com/send"
-                                  method="post" id="email_form">
+                            <form id="javascript_form">
                                 <div class="form-group mt-5">
                                     <div class="input-group input-group-alternative">
                                         <div class="input-group-prepend">
@@ -554,30 +553,14 @@
                                 <div class="form-group mb-4">
                                 <textarea class="form-control form-control-alternative" name="text" rows="4" cols="80"
                                           placeholder="Type a message..."></textarea>
-                                    <input type="hidden" name="access_token" value="yqvn7hro6hb5a14gdldmbu3g"/>
-                                    <input type="hidden" name="success_url"
-                                           value=".?message=Email+Successfully+Sent%21&isError=0"/>
-                                    <input type="hidden" name="error_url"
-                                           value=".?message=Email+could+not+be+sent.&isError=1"/>
                                 </div>
                                 <div>
-                                    <button id="submit_form" value="Send" type="submit"
+                                    <button id="js_send" value="Send" type="submit"
                                             class="btn btn-default btn-round btn-block btn-lg">Send
                                         Message
                                     </button>
                                 </div>
                             </form>
-                            <!-- PostMail (keep!) -->
-                            <script>
-                                var submitButton = document.getElementById("submit_form");
-                                var form = document.getElementById("email_form");
-                                form.addEventListener("submit", function (e) {
-                                    setTimeout(function () {
-                                        submitButton.value = "Sending...";
-                                        submitButton.disabled = true;
-                                    }, 1);
-                                });
-                            </script>
                         </div>
                     </div>
                 </div>
@@ -689,6 +672,8 @@
         </div>
     </div>
 </footer>
+<!-- PostMail -->
+<script src="assets/js/form.js"></script>
 <!-- Core -->
 <script src="assets/vendor/jquery/jquery.min.js"></script>
 <script src="assets/vendor/popper/popper.min.js"></script>
