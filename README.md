@@ -1,1 +1,1 @@
-Proxima
+Proxima Centauri
