@@ -4,6 +4,12 @@ $("#getInTouch").click(function () {
     }, 2000);
 });
 
+$(".learn-more").click(function () {
+    $([document.documentElement, document.body]).animate({
+        scrollTop: $("section:nth-of-type(3)").offset().top
+    }, 2000);
+});
+
 var form_id_js = "javascript_form";
 
 var data_js = {
